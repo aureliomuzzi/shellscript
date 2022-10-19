@@ -1,4 +1,5 @@
 #!/bin/bash
+#Autor: Aurelio Muzzi
 main()
 {
   while true; do
